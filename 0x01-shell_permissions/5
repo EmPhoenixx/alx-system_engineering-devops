@@ -1,0 +1,2 @@
+#!/bin/bash -execute
+chmod u+x hello -execute
